@@ -1,5 +1,5 @@
 ---
-title: "ACADEMIC OVERVIEW"
+title: "Programs"
 date: 2020-08-24T23:11:24-04:00
 # Common-Defined params
 description: "UC Berkeley's Computational Social Science Training Program Homepage"
@@ -11,7 +11,7 @@ tags:
   - "socialscience"
 menu: 
     main: 
-        name: About
+        name: Programs
         weight: 10
 
 # Theme-Defined params
@@ -28,10 +28,4 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 ---
-## Curriculum
-
-- A year-long course in computational social science that prepares trainees to employ advanced data analytic methods.
-- Two data science elective courses selected from existing courses to develop deep specialized knowledge and skills.
-- Data science research internships in UC Berkeley faculty labs and/or industrial labs.
-
-
+## Header
