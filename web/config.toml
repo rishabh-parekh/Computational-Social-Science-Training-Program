@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Computational Social Sciences Program"
+theme = "mainroad"
