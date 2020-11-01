@@ -25,6 +25,7 @@ sideurl:
   - "[Email css-t32@berkeley.edu](mailto:css-t32@berkeley.edu)"
   - "[CSS Seminar and Lab](https://classes.berkeley.edu/content/2020-fall-sociol-273l-001-lec-001)"
   - "[GitHub](https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program/)"
+  - "[CSS Forum](https://bids.berkeley.edu/research/computational-social-science-forum)"
 
 calendar: "https://calendar.google.com/calendar/embed?src=css-t32%40berkeley.edu&ctz=America%2FLos_Angeles"
 
@@ -44,9 +45,4 @@ These include the Computational Social Science Annual Meeting to present prelimi
 - A year-long course in computational social science that prepares trainees to employ advanced data analytic methods.
 - Two data science elective courses selected from existing courses to develop deep specialized knowledge and skills.
 - Data science research internships in UC Berkeley faculty labs and/or industrial labs.
-## ADMISSIONS
-### Overview and Eligibility
-Second- and third-year predoctoral students who
-- are enrolled in one of five UC Berkeley PhD degree programs: Sociology, Demography, Social Epidemiology, Public Health Policy, Social Welfare, and Public Policy 
-- have completed the first-year course requirements in their home departments 
-- are US citizens or permanent residents 
+

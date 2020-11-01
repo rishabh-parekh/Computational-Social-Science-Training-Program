@@ -1,12 +1,12 @@
 ---
-title: "Fellows"
+title: "Events"
 date: 2020-08-25T23:11:24-04:00
 # Common-Defined params
-description: "UC Berkeley's Computational Social Science Training Program fellows"
+description: "UC Berkeley's Computational Social Science Training Program Events Calendar"
 menu: 
     main: 
-        name: Fellows
-        weight: 4
+        name: Events
+        weight: 6
 
 # Theme-Defined params
 # thumbnail: "img/placeholder.jpg" # Thumbnail image
@@ -20,10 +20,10 @@ widgets: # Enable sidebar widgets in given order per page
   - "search"
   - "recent"
   - "taglist"
+
+calendar: "https://calendar.google.com/calendar/embed?src=css-t32%40berkeley.edu&ctz=America%2FLos_Angeles"
+
 ---
 
-- Monica De La Cruz (https://bids.berkeley.edu/people/monica-de-la-cruz)
-- Elleni Hailu (https://bids.berkeley.edu/people/elleni-hailu)
-- Jessie Harney (https://bids.berkeley.edu/people/jessie-harney)
-- Ángel Mendiola Ross (https://bids.berkeley.edu/people/%C3%A1ngel-mendiola-ross)
-- Mahader Tamene (https://bids.berkeley.edu/people/mahader-tamene)
+{{ partial "widgets/calendar.html" . }}
+

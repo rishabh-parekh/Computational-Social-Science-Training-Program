@@ -1,6 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Computational Social Sciences Program"
 theme = "mainroad"
 
 [Params.sidebar]
@@ -9,3 +8,6 @@ theme = "mainroad"
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "sideurl"]
+
+[Params.logo]
+  image = "images/CSSTPWebsiteHeader.svg"
