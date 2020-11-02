@@ -13,7 +13,7 @@ menu:
 # lead: "Example lead - highlighted near the title" # Lead text
 # comments: false # Enable Disqus comments for specific page
 # authorbox: true # Enable authorbox for specific page
-pager: true # Enable pager navigation (prev/next) for specific page
+# pager: true # Enable pager navigation (prev/next) for specific page
 # mathjax: true # Enable MathJax for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
@@ -21,9 +21,6 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 
-calendar: "https://calendar.google.com/calendar/embed?src=css-t32%40berkeley.edu&ctz=America%2FLos_Angeles"
-
 ---
 
-{{ partial "widgets/calendar.html" . }}
-
+{{< event  url="https://calendar.google.com/calendar/embed?src=css-t32%40berkeley.edu&ctz=America%2FLos_Angeles" >}} 
